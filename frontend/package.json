@@ -17,7 +17,8 @@
     "web-vitals": "^2.1.4",
     "web3": "^4.16.0",
     "serve": "^14.2.0",
-    "react-app-rewired": "^2.2.1"
+    "react-app-rewired": "^2.2.1",
+    "webpack": "^5.76.0"
   },
   "scripts": {
     "dev": "react-app-rewired start",
