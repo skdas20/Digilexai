@@ -21,7 +21,7 @@
   },
   "scripts": {
     "dev": "react-app-rewired start",
-    "build": "react-app-rewired build",
+    "build": "npx react-app-rewired build",
     "start": "serve -s build -l $PORT",
     "test": "react-app-rewired test",
     "eject": "react-scripts eject"
