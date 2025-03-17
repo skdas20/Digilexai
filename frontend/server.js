@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 const app = express();
 
-// Use the port provided by Render or default to 3000
+// Use the port provided by Render, or default to 3000
 const port = process.env.PORT || 3000;
 
 // Serve the static files from the React app's build folder
